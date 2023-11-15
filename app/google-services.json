@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602788498803",
+    "project_id": "fir-withmvvm-b9de3",
+    "storage_bucket": "fir-withmvvm-b9de3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602788498803:android:a8ff4be3a978f277964906",
+        "android_client_info": {
+          "package_name": "com.vicmoy.firebasewithmvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2XH-0oSX51jVC8snDWMzbW85vy6jhLG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
