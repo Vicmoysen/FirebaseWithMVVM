@@ -4,6 +4,7 @@ plugins {
     id("com.google.gms.google-services")
     kotlin("kapt")
     id("com.google.dagger.hilt.android")
+    id("kotlin-parcelize")
 }
 
 android {
@@ -48,6 +49,8 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:$material")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
+
+    implementation("androidx.viewpager2:viewpager2:1.0.0-beta01")
 
     //Jetpack Navigation Compose
     implementation("androidx.legacy:legacy-support-v4:1.0.0")
